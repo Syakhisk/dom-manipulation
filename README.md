@@ -4,8 +4,9 @@ Repository ini dibuat untuk membantu mahasiswa mehamai tentang Javascript DOM Ma
 ![alt text](https://raw.githubusercontent.com/Syakhisk/dom-manipulation/master/assets/img/screenshot.png)
 
 ## Cara melihat project ini:
-* clone repo dan jalankan live-server
-* buka link [`github-pages`](https://syakhisk.github.io/dom-manipulation/)
+Clone repo dan jalankan live-server
+atau
+Buka link [`github-pages`](https://syakhisk.github.io/dom-manipulation/) untuk live demo
 
 ## Notes
 * Jika ada bug feel free to open an [`issue`](https://github.com/Syakhisk/dom-manipulation/issues)
